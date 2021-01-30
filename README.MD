@@ -1,5 +1,5 @@
 ### Hi there im Wijiler
-I'm gamedev and java devoloper (im not very good lol)
+I'm a gamedev and java devoloper (im not very good lol)
 uhhh ✨I know some C++ unity C# HTML5 and some Java ✨
 <!--
 **wijiler/Wijiler** is Big special
