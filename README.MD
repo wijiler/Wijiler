@@ -2,12 +2,12 @@
 <br>
 <br>
 <pre align="center">
-I'm a gamedev and java devoloper (im not very good lol)
+I'm a webdev, java, javascript and rust devoloper (im not very good lol)
 <br>
-uhhh ✨I know some C++ unity C# HTML5 and some Java ✨
+uhhh ✨I know some rust html5 react react-native I wanna work on haskell and make some cool custom rust commands ✨
 <br>
 <div>
-  <h3>Im currently working on a coding language called<a href="https://github.com/wijiler/Atech"> Atech</a> it is not maintained at the moment </h3>
+  <h3>Im currently not working on a coding language called<a href="https://github.com/wijiler/Atech"> Atech</a> it is not maintained at the moment </h3>
 </div>
 </pre>
 
