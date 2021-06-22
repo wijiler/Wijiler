@@ -7,7 +7,7 @@ I'm a gamedev and java devoloper (im not very good lol)
 uhhh ✨I know some C++ unity C# HTML5 and some Java ✨
 <br>
 <div>
-  <h3>Im currently working on a coding language called<a href="https://github.com/wijiler/Atech"> Atech</a> it is work in progress at the moment </h3>
+  <h3>Im currently working on a coding language called<a href="https://github.com/wijiler/Atech"> Atech</a> it is not maintained at the moment </h3>
 </div>
 </pre>
 
