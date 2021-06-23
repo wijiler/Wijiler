@@ -2,7 +2,7 @@
 <br>
 <br>
 <pre align="center">
-I'm a webdev, java, javascript and rust devoloper (im not very good lol)
+I know some java, alot of javascript and im working on learning rust (im not very good lol)
 <br>
 uhhh ✨I know some rust html5 react react-native I wanna work on haskell and make some cool custom rust and c commands ✨
 <br>
