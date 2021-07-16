@@ -12,3 +12,8 @@ uhhh ✨I know some rust html5 react react-native I wanna work on haskell and ma
 </pre>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=wijiler&show_icons=true&theme=dark)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wijiler&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+</p>
