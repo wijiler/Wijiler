@@ -10,9 +10,10 @@ uhhh ✨I know some rust html5 react react-native I wanna work on haskell and ma
 
 </div>
 </pre>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=wijiler&show_icons=true&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wijiler&hide_border=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijiler&layout=compact&hide_border=true&t&card_width=250&theme=nord" height="195rem" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wijiler&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Trophy" />
