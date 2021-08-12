@@ -12,4 +12,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wijiler&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Trophy" />
 </p>
 
-<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
+
