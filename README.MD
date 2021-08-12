@@ -1,10 +1,7 @@
 <h1 align="center"> Hi there im Wijiler </h1>
 <br>
-<br>
 <pre align="center">
-<div>
   <h4> I enjoy rust and c </h4>
-</div>
 </pre>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wijiler&hide_border=true&theme=nord" />
