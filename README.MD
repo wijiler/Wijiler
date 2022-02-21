@@ -4,8 +4,8 @@
   <h4> I enjoy rust and c just looking to have fun with this</h4>
 </pre>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/?username=Wijiler&margin-w=5&theme=nord" />
-  <img src="https://github-readme-stats.vercel.app/?username=Wijiler&margin-w=5&theme=nord" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wijiler&hide_border=true&count_private=true&show_icons=true&theme=nord" alt="WijilerStats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wijiler&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord" alt="Wijiler" align = "center"/></p>
 </p>
 
 <p align="center">
