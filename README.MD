@@ -12,10 +12,10 @@
 
 # What do I use?
 
-#### I like rust,c,and odin
+I like rust,c,and odin
 
 # Projects
 
-#### right now Im working on [FerricLang](https://github.com/wijiler/FerricLang "I may rename this to ferrous")  
+right now Im working on [FerricLang](https://github.com/wijiler/FerricLang "I may rename this to ferrous")  
 also:  
-#### [Ferengine](https://github.com/wijiler/ferengine "A WIP game engine")
+[Ferengine](https://github.com/wijiler/ferengine "A WIP game engine")
