@@ -10,4 +10,12 @@
  <a href="https://github.com/Wijiler"><img src="https://github-profile-trophy.vercel.app/?username=Wijiler&margin-w=5&theme=nord" alt="Wijiler" /></a>
 </p>
 
+# What do I use?
 
+#### I like rust,c,and odin
+
+# Projects
+
+#### right now Im working on [FerricLang](https://github.com/wijiler/FerricLang "I may rename this to ferrous")  
+also:  
+#### [Ferengine](https://github.com/wijiler/ferengine "A WIP game engine")
