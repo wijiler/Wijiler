@@ -12,7 +12,7 @@
 
 # What do I use?
 ![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)  
-![, Odin](https://odin-lang.org/images/logo-slim.png) 
+![, Odin](https://odin-lang.org/images/logo-slim.png)  
 ![, C](https://img.icons8.com/color/452/c-programming.png)  
 # Projects
 
