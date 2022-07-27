@@ -11,7 +11,7 @@
 </p>
 
 # What do I use?
-![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg) ![, Odin](https://odin-lang.org/images/logo-slim.png) ![, C](https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png)
+![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg) ![, Odin](https://odin-lang.org/images/logo-slim.png) ![, C](https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png)
 # Projects
 
 right now Im working on [FerricLang](https://github.com/wijiler/FerricLang "I may rename this to ferrous")  
