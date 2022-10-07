@@ -16,6 +16,6 @@
 ![, C](https://img.icons8.com/color/452/c-programming.png)  
 # Projects
 
-right now Im working on [FerricLang](https://github.com/wijiler/FerricLang "I may rename this to ferrous")  
+right now Im working on [Ferrous](https://github.com/wijiler/Ferrous)  
 also:  
-[Ferengine](https://github.com/wijiler/ferengine "A WIP game engine")
+[wijork](https://github.com/wijiler/wijork "A WIP game engine")
