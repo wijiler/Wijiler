@@ -16,6 +16,6 @@
 ![, C](https://img.icons8.com/color/452/c-programming.png)  
 # Projects
 
-right now Im working on [Ferrous](https://github.com/wijiler/Ferrous)  
+right now Im working on [Ferrous](https://github.com/wijiler/quartzz)  
 also:  
 [wijork](https://github.com/wijiler/wijork "A WIP game engine")
