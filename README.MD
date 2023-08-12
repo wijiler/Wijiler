@@ -1,5 +1,7 @@
 <h1 align="center"> Hello I'm Wijiler </h1>
-!(lol)[https://wijiler.github.io/header.gif]
+<p align="center">
+<img height="180em" src="https://wijiler.github.io/header.gif">
+</p>
 <br>
 <h4 align="center">Im a professional idiot and rust enthusiast </h4>
 <p align="center">
