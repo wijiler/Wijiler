@@ -9,13 +9,3 @@
 <p align="center">
  <a href="https://github.com/Wijiler"><img src="https://github-profile-trophy.vercel.app/?username=Wijiler&margin-w=5&theme=gruvbox" alt="Wijiler" /></a>
 </p>
-
-# What do I use?
-![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)  
-![, Odin](https://odin-lang.org/images/logo-slim.png)  
-![, C](https://img.icons8.com/color/452/c-programming.png)  
-# Projects
-
-right now Im working on [Quartzz](https://github.com/wijiler/quartzz)  
-also:  
-[wijork](https://github.com/wijiler/wijork "A WIP game engine")
