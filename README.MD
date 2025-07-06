@@ -11,17 +11,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h4 align="center">I like compilers and graphics programming</h4>
 <h4 align="center">Look at my pins or <a href="https://wijiler.github.io">here</a></h4
 </p>
