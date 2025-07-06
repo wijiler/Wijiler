@@ -1,14 +1,21 @@
-<h1 align="center"> Hello I'm Wijiler </h1>
 <p align="center">
 <img height="180em" src="https://wijiler.github.io/header.gif">
 </p>
 <br>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wijiler&show_icons=true&theme=gruvbox" alt="github stats and shit"></img> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijiler&layout=pie&theme=gruvbox" alt="github stats"></img>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wijiler&show_icons=true&theme=gruvbox" alt="github stats and shit"></img> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijiler&layout=compact&theme=gruvbox" alt="github stats"></img>
 </div>
 <br>
 <br>
 <p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
